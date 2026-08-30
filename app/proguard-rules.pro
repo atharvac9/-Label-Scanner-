@@ -1,0 +1,2 @@
+-dontwarn com.google.mediapipe.**
+-keep class com.google.mediapipe.** { *; }
