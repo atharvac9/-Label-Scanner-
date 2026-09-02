@@ -1,4 +1,5 @@
 # Qunit - Label Scanner 🏷️
+<br>Iqoo Hackathon
 
 Minimal Android prototype that uses **Gemma 3n** (on-device, multimodal) to read food-label photos and flag restricted ingredients — entirely offline.
 
